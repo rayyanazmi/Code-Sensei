@@ -89,12 +89,15 @@ interface.launch()
 
 ### CodeSensei Interface - Initial Prompt
 
-![Initial Prompt](./Screenshot_2024-08-09_235513.jpg)
+
+![Screenshot 2024-08-09 235513](https://github.com/user-attachments/assets/84a680b2-4711-49a5-ae93-8f556aa48c17)
+
 *In this screenshot, the user has greeted CodeSensei with "Hello!" and the assistant responds by offering its help for any programming-related tasks.*
 
 ### CodeSensei Interface - Coding Assistance
 
-![Coding Assistance](./Screenshot_2024-08-10_000022.jpg)
+![Screenshot 2024-08-10 000022](https://github.com/user-attachments/assets/3c8385f7-bc16-4a43-9d69-e5b3c3c226c2)
+
 *Here, the user has asked CodeSensei for guidance on creating a portfolio website, and the assistant provides a step-by-step guide on how to get started.*
 
 ## Installation
